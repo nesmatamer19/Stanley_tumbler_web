@@ -1,9 +1,12 @@
 import React from 'react'
+import Navbar from './components/Navbar'
+import CupCarousel from './components/CupCarousel'
 
 const App = () => {
   return (
-    <div className='bg-red-700'>
-      blaa
+    <div>
+      <Navbar />
+      <CupCarousel />
     </div>
   )
 }
