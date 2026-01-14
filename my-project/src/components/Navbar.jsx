@@ -7,7 +7,7 @@ function Navbar() {
         <nav className="relative z-50 sticky top-0 bg-white backdrop-blur-md border-b border-white/10">
             <div className="max-w-7xl mx-auto px-2 py-4 flex justify-between items-center">
                 <div className="flex items-center gap-2 text-2xl font-bold">
-                    <img src="/src/assets/images/stanley-logo.svg" className="w-32 mt-3 brightness-110"></img>
+                    <img src="./images/stanley-logo.svg" className="w-32 mt-3 brightness-110"></img>
                 </div>
 
                 <div className="hidden md:flex gap-8">

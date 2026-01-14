@@ -6,18 +6,18 @@ function CupCarousel() {
     const cups = [
         {
             id: 1,
-            bgimage: '/src/assets/images/pink_bgg.jpg',
-            image: '/src/assets/images/pink.png',
+            bgimage: './images/pink_bgg.jpg',
+            image: './images/pink.png',
         },
         {
             id: 2,
-            bgimage: '/src/assets/images/galaxy_bg.jpg',
-            image: '/src/assets/images/galaxy.png',
+            bgimage: './images/galaxy_bg.jpg',
+            image: './images/galaxy.png',
         },
         {
             id: 3,
-            bgimage: '/src/assets/images/bg.png',
-            image: '/src/assets/images/black.png',
+            bgimage: './images/bg.png',
+            image: './images/black.png',
         },
     ]
 
